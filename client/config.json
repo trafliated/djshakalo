@@ -1,0 +1,13 @@
+{
+    "token": "OTAyMjYxNTY4OTk2MjQ1NTA0.YXb2kQ.30tqO4073Jks1UsHN2FWrgJr5I8",
+    "prefix": "+",
+    
+    "nodes": [
+        {
+            "id": "1",
+            "host": "localhost",
+            "port": "2333",
+            "password": "burntdourlemon"
+        }
+    ]
+}
